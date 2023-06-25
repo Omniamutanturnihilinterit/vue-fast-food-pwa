@@ -7,3 +7,13 @@ Vue and SCSS
 
 # Author
 https://vue-fast-food-pwa.vercel.app/
+
+# How to run a VueJs project from Github
+
+`git clone https://github.com/Omniamutanturnihilinterit/vue-fast-food-pwa.git`
+
+`cd vue-fast-food-pwa`
+
+`npm install`
+
+`npm run dev`
